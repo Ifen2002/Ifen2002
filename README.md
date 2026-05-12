@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Isaac Fen 👋
+Senior Client Support Engineer · Aspiring PM/BA · Building toward Data & Cloud
+I work at the intersection of enterprise support, process improvement, and data. Currently delivering mission-critical technical support for U.S. banking applications on the Fiserv DNA core platform — while building toward a Project Management & Business Analysis career in transnational tech and FinTech environments.
+Based in San José, Costa Rica 🇨🇷 · Working in English & Spanish.
 
-<!--
-**Ifen2002/Ifen2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 What I focus on
 
-Here are some ideas to get you started:
+Incident Management & ITSM — P1/P2 resolution, SLA governance, root cause analysis on Client360 and Splunk
+Process Improvement — designing operational playbooks, triage workflows, and knowledge bases that scale
+Data & Business Intelligence — SQL, Power BI, ETL fundamentals, and relational data modeling
+Cross-functional Coordination — leading war rooms with Account Managers, engineering, and client stakeholders
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Stack & Tooling
+Cloud & ITSM — Microsoft Azure · AWS · Client360 · Splunk · ServiceNow · Jira
+Data & BI — SQL · PostgreSQL · Power BI · SSMS · Pentaho Data Integration (Spoon)
+Scripting & OS — Python · Linux · Git · Microsoft 365
+Methodologies — Agile/Scrum · ITSM · Incident Management · QA Documentation Standards
+
+📚 Currently learning
+
+Microsoft SC-900 (Security, Compliance & Identity Fundamentals)
+ITIL 4 Foundation
+Anthropic AI Fluency — Framework & Foundations
+B.S. in Computer Science @ Universidad Fidélitas (2022 – 2026)
+
+
+📂 Repositories worth a look
+
+🗂️ technical-knowledge-base — Curated troubleshooting patterns, SQL snippets, and ITSM operational notes
+📋 pm-ba-toolkit — Templates for PRDs, RFCs, project charters, and process documentation
+📊 data-portfolio — SQL queries, relational data models, and Power BI practice work
