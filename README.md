@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/IsaacFen"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Isaac.fen.magana@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Costa%20Rica%20🇨🇷-success?style=for-the-badge](https://maps.app.goo.gl/AU9Se722dW1m6hJ99)" />
+  <a href="https://maps.app.goo.gl/AU9Se722dW1m6hJ99"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
